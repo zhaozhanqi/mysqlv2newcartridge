@@ -1,4 +1,4 @@
-Name: mysql
+Name: mysqlv2
 Cartridge-Short-Name: MYSQL
 Architecture: noarch
 Display-Name: MySQL Database 5.1
@@ -49,3 +49,4 @@ Endpoints:
     Private-Port:      3306
     Public-Port-Name:  DB_PROXY_PORT
 Install-Build-Required: false
+Source-Url: https://github.com/xltian/mysqlv2newcartridge.git

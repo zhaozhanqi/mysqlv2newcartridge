@@ -6,7 +6,7 @@ Description: "MySQL is a multi-user, multi-threaded SQL database server."
 Version: '5.1'
 Versions: [5.1]
 Cartridge-Version: 0.2.0
-Cartridge-Vendor: redhat
+Cartridge-Vendor: nonredhat
 License: GPL
 Vendor: Oracle
 Categories:

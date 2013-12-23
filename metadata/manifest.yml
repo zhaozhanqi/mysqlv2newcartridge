@@ -10,7 +10,6 @@ Cartridge-Vendor: nonredhat
 License: GPL
 Vendor: Oracle
 Categories:
-  - service
   - database
   - embedded
 Website: http://www.mysql.com
